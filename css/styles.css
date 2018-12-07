@@ -1,0 +1,13 @@
+body{
+	max-width: 60em;
+	margin: 0 auto;
+}
+.MoneyShotImg{
+	max-width: 100%;
+}
+@media screen and (min-width: 50em) {
+	body{
+		border-left: 2px solid #9a9a9a;
+		border-right: 2px solid #9a9a9a;
+	}
+}
